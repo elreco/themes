@@ -1,12 +1,12 @@
 {
-    "name": "wiledia/themes",
+    "name": "Elreco/themes",
     "description": "Laravel 5 Themes",
     "keywords": ["themes", "laravel", "caffeinated", "blade"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Wiledia",
-            "email": "hello@wiledia.com"
+            "name": "Elreco",
+            "email": "hello@Elreco.com"
         }
     ],
     "require": {
