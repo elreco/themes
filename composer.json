@@ -1,32 +1,11 @@
 {
-    "name": "Elreco/themes",
-    "description": "Laravel 5 Themes",
-    "keywords": ["themes", "laravel", "caffeinated", "blade"],
-    "license": "MIT",
+    "name": "elreco/themes",
     "authors": [
         {
-            "name": "Elreco",
-            "email": "hello@Elreco.com"
+            "name": "Alexandre",
+            "email": "a.elreco@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.6.4",
-        "caffeinated/manifest": "1.0.*",
-        "illuminate/support": "5.8.*"
-    },
-    "autoload": {
-        "psr-4": {
-            "Caffeinated\\Themes\\": "src/"
-        }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Caffeinated\\Themes\\ThemesServiceProvider"
-            ],
-            "aliases": {
-                "Theme": "Caffeinated\\Themes\\Facades\\Theme"
-            }
-        }
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
